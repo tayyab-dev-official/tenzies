@@ -1,24 +1,10 @@
 # 🎲 Tenzies Game
 
-**Tenzies** is an exciting and addictive dice game that challenges players to think strategically while having fun! Built with modern React and powered by Vite, this interactive web application brings the classic Tenzies experience to your browser.
+A fun and interactive dice game built with React and Vite. Roll 10 dice, hold your favorites, and try to get them all showing the same number to win!
 
-## 📖 About the Project
+## 🎯 About
 
-This project showcases my expertise in **React development** and modern web development practices. Tenzies represents a perfect blend of game logic, state management, and user interface design.
-
-### 🎯 What is Tenzies?
-
-Tenzies is a fast-paced dice game where strategy meets luck! The objective is simple yet engaging: roll 10 dice and try to get them all to show the same number. Players can strategically "hold" dice they want to keep, creating an element of decision-making that makes each game unique and exciting.
-
-### 🌟 Why This Project?
-
-- **Learning React State Management**: Demonstrates complex state handling with multiple dice objects
-- **Component Architecture**: Showcases proper React component structure and prop passing
-- **Interactive UI/UX**: Features responsive design with visual feedback
-- **Modern Development**: Built with Vite for lightning-fast development experience
-- **Clean Code Practices**: Implements best practices for maintainable and scalable code
-
-Roll the dice, hold your favorites, and try to get all dice showing the same number to win!
+Tenzies is a fast-paced strategy game where you roll dice and selectively hold them to achieve matching numbers. Built with modern React for smooth gameplay and responsive design.
 
 ## 🎮 Game Rules
 
