@@ -16,7 +16,7 @@ Tenzies is a fast-paced strategy game where you roll dice and selectively hold t
 
 ## 🚀 Demo
 
-[Live Demo](https://keshf-tenzies.netlify.app/) | [GitHub Repository](https://github.com/tayyab-dev-official/tenzies)
+[Live Demo](https://keshf-tenzies.netlify.app/) 
 
 ## ️ Built With
 
