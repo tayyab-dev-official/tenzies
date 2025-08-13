@@ -146,8 +146,8 @@ This project is open source and available under the MIT License. Feel free to us
 ## 📞 Contact
 
 - GitHub: [@tayyab-dev-official](https://github.com/tayyab-dev-official)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Mohammad Tayyab](https://linkedin.com/in/yourprofile)
+- Email: tayyab.professional.official@gmail.com
 
 ---
 
