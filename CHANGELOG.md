@@ -8,10 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial project setup with React and Vite
-- Basic dice rolling functionality
-- Hold/unhold dice feature
-- Visual feedback for held dice
 
 ### Changed
 
@@ -30,6 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 10 dice game board
 - Roll dice functionality
 - Hold dice by clicking
+- Win condition detection
+- Confetti celebration animation
 - Basic game interface
 - Responsive design
 

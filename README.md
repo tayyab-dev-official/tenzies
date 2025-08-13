@@ -83,11 +83,10 @@ tenzies/
 - ✅ Interactive dice rolling
 - ✅ Hold/unhold dice functionality
 - ✅ Visual feedback for held dice
+- ✅ Win condition detection
+- ✅ Celebration animation with confetti
 - ✅ Responsive design
 - ✅ Clean and intuitive UI
-- 🔄 Win condition detection *(if implemented)*
-- 🎉 Celebration animation *(if implemented)*
-- 📊 Score tracking *(if implemented)*
 
 ## 🤝 Contributing
 
@@ -127,13 +126,12 @@ The game uses React's `useState` hook to manage:
 
 ## 📈 Future Enhancements
 
-- [ ] Add win condition detection
-- [ ] Implement confetti celebration on win
 - [ ] Add roll counter and best score tracking
 - [ ] Add timer functionality
 - [ ] Implement local storage for high scores
 - [ ] Add sound effects
 - [ ] Add different difficulty levels
+- [ ] Add game statistics and analytics
 
 ## 📄 License
 
