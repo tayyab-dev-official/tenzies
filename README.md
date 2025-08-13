@@ -16,13 +16,9 @@ Tenzies is a fast-paced strategy game where you roll dice and selectively hold t
 
 ## 🚀 Demo
 
-[Live Demo](https://your-tenzies-game.netlify.app) *(Add your deployed link here)*
+[Live Demo](https://keshf-tenzies.netlify.app/) | [GitHub Repository](https://github.com/tayyab-dev-official/tenzies)
 
-## 📸 Screenshots
-
-![Tenzies Game Screenshot](./screenshots/tenzies-game.png) *(Add screenshots of your game)*
-
-## 🛠️ Built With
+## ️ Built With
 
 - **React 19** - Frontend framework
 - **Vite** - Build tool and dev server
@@ -56,7 +52,7 @@ tenzies/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tenzies.git
+   git clone https://github.com/tayyab-dev-official/tenzies.git
    cd tenzies
    ```
 
@@ -151,7 +147,7 @@ This project is open source and available under the MIT License. Feel free to us
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@tayyab-dev-official](https://github.com/tayyab-dev-official)
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 
